@@ -18,7 +18,7 @@ It is support OOP's approach to develop applications
 
 #program
 
-Write a python code using function, file input and print each line with line number in the terminal.
+#Write a python code using function, file input and print each line with line number in the terminal.
 
 
 import os
