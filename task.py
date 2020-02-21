@@ -133,8 +133,7 @@ class Test:
 obj = Test() 
 obj.add(10,20) 
 
-#Write a python code using class (at least 3 functions inside) and a
-Dictionary.
+#Write a python code using class (at least 3 functions inside) and a Dictionary.
 
 #Class :
 
